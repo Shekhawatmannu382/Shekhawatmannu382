@@ -1,0 +1,4 @@
+- 👋 Hi, I’m Mannu Shekhawat
+- 🌱 I’m currently doing M.C.A, and I'm front end developer, Strong in design and integration with intutive problem-solving skills. proficient in JAVA, JAVASCRIPT,Passionate about implementing and launching new projact 
+- 💞️ I'm currently looking internship 
+- 📫 this is my email to reach out  Shekhawatmannu382@gmail.com
